@@ -1,0 +1,199 @@
+Level,Sub-Level,Country
+Continent,Africa,Algeria
+Continent,Africa,Angola
+Continent,Africa,Benin
+Continent,Africa,Botswana
+Continent,Africa,Burkina Faso
+Continent,Africa,Burundi
+Continent,Africa,Cabo Verde
+Continent,Africa,Cameroon
+Continent,Africa,Central African Republic
+Continent,Africa,Chad
+Continent,Africa,Comoros
+Continent,Africa,Congo (Republic)
+Continent,Africa,DR Congo
+Continent,Africa,Djibouti
+Continent,Africa,Egypt
+Continent,Africa,Equatorial Guinea
+Continent,Africa,Eritrea
+Continent,Africa,Eswatini
+Continent,Africa,Ethiopia
+Continent,Africa,Gabon
+Continent,Africa,Gambia
+Continent,Africa,Ghana
+Continent,Africa,Guinea
+Continent,Africa,Guinea-Bissau
+Continent,Africa,Kenya
+Continent,Africa,Lesotho
+Continent,Africa,Liberia
+Continent,Africa,Libya
+Continent,Africa,Madagascar
+Continent,Africa,Malawi
+Continent,Africa,Mali
+Continent,Africa,Mauritania
+Continent,Africa,Mauritius
+Continent,Africa,Morocco
+Continent,Africa,Mozambique
+Continent,Africa,Namibia
+Continent,Africa,Niger
+Continent,Africa,Nigeria
+Continent,Africa,Rwanda
+Continent,Africa,São Tomé and Príncipe
+Continent,Africa,Senegal
+Continent,Africa,Seychelles
+Continent,Africa,Sierra Leone
+Continent,Africa,Somalia
+Continent,Africa,South Africa
+Continent,Africa,South Sudan
+Continent,Africa,Sudan
+Continent,Africa,Tanzania
+Continent,Africa,Togo
+Continent,Africa,Tunisia
+Continent,Africa,Uganda
+Continent,Africa,Zambia
+Continent,Africa,Zimbabwe
+
+Region,Northern Africa,Egypt
+Region,Northern Africa,Libya
+Region,Northern Africa,Tunisia
+Region,Northern Africa,Algeria
+Region,Northern Africa,Morocco
+Region,Northern Africa,Sudan
+Region,Northern Africa,Western Sahara
+
+Sub-Region,Arab World,Egypt
+Sub-Region,Arab World,Algeria
+Sub-Region,Arab World,Bahrain
+Sub-Region,Arab World,Comoros
+Sub-Region,Arab World,Djibouti
+Sub-Region,Arab World,Iraq
+Sub-Region,Arab World,Jordan
+Sub-Region,Arab World,Kuwait
+Sub-Region,Arab World,Lebanon
+Sub-Region,Arab World,Libya
+Sub-Region,Arab World,Mauritania
+Sub-Region,Arab World,Morocco
+Sub-Region,Arab World,Oman
+Sub-Region,Arab World,Palestine
+Sub-Region,Arab World,Qatar
+Sub-Region,Arab World,Saudi Arabia
+Sub-Region,Arab World,Somalia
+Sub-Region,Arab World,Sudan
+Sub-Region,Arab World,Syria
+Sub-Region,Arab World,Tunisia
+Sub-Region,Arab World,United Arab Emirates
+Sub-Region,Arab World,Yemen
+
+MENA,North Africa,Egypt
+MENA,North Africa,Algeria
+MENA,North Africa,Libya
+MENA,North Africa,Tunisia
+MENA,North Africa,Morocco
+MENA,North Africa,Sudan
+
+MENA,Middle East,Bahrain
+MENA,Middle East,Cyprus
+MENA,Middle East,Iran
+MENA,Middle East,Iraq
+MENA,Middle East,Israel
+MENA,Middle East,Jordan
+MENA,Middle East,Kuwait
+MENA,Middle East,Lebanon
+MENA,Middle East,Oman
+MENA,Middle East,Palestine
+MENA,Middle East,Qatar
+MENA,Middle East,Saudi Arabia
+MENA,Middle East,Syria
+MENA,Middle East,Turkey
+MENA,Middle East,United Arab Emirates
+MENA,Middle East,Yemen
+
+Greater Middle East,GME,Egypt
+Greater Middle East,GME,Afghanistan
+Greater Middle East,GME,Algeria
+Greater Middle East,GME,Bahrain
+Greater Middle East,GME,Iran
+Greater Middle East,GME,Iraq
+Greater Middle East,GME,Israel
+Greater Middle East,GME,Jordan
+Greater Middle East,GME,Kazakhstan
+Greater Middle East,GME,Kuwait
+Greater Middle East,GME,Kyrgyzstan
+Greater Middle East,GME,Lebanon
+Greater Middle East,GME,Libya
+Greater Middle East,GME,Morocco
+Greater Middle East,GME,Oman
+Greater Middle East,GME,Pakistan
+Greater Middle East,GME,Palestine
+Greater Middle East,GME,Qatar
+Greater Middle East,GME,Saudi Arabia
+Greater Middle East,GME,Syria
+Greater Middle East,GME,Tajikistan
+Greater Middle East,GME,Tunisia
+Greater Middle East,GME,Turkey
+Greater Middle East,GME,Turkmenistan
+Greater Middle East,GME,UAE
+Greater Middle East,GME,Uzbekistan
+Greater Middle East,GME,Yemen
+
+Mediterranean Basin,Mediterranean,Egypt
+Mediterranean Basin,Mediterranean,Morocco
+Mediterranean Basin,Mediterranean,Algeria
+Mediterranean Basin,Mediterranean,Tunisia
+Mediterranean Basin,Mediterranean,Libya
+Mediterranean Basin,Mediterranean,Turkey
+Mediterranean Basin,Mediterranean,Syria
+Mediterranean Basin,Mediterranean,Lebanon
+Mediterranean Basin,Mediterranean,Israel
+Mediterranean Basin,Mediterranean,Palestine
+Mediterranean Basin,Mediterranean,Cyprus
+Mediterranean Basin,Mediterranean,Greece
+Mediterranean Basin,Mediterranean,Albania
+Mediterranean Basin,Mediterranean,Montenegro
+Mediterranean Basin,Mediterranean,Bosnia and Herzegovina
+Mediterranean Basin,Mediterranean,Croatia
+Mediterranean Basin,Mediterranean,Slovenia
+Mediterranean Basin,Mediterranean,Italy
+Mediterranean Basin,Mediterranean,France
+Mediterranean Basin,Mediterranean,Spain
+Mediterranean Basin,Mediterranean,Malta
+
+COMESA,COMESA,Egypt
+COMESA,COMESA,Libya
+COMESA,COMESA,Sudan
+COMESA,COMESA,Eritrea
+COMESA,COMESA,Ethiopia
+COMESA,COMESA,Djibouti
+COMESA,COMESA,Kenya
+COMESA,COMESA,Uganda
+COMESA,COMESA,Rwanda
+COMESA,COMESA,Burundi
+COMESA,COMESA,DR Congo
+COMESA,COMESA,Zambia
+COMESA,COMESA,Zimbabwe
+COMESA,COMESA,Malawi
+COMESA,COMESA,Mozambique
+COMESA,COMESA,Madagascar
+COMESA,COMESA,Seychelles
+COMESA,COMESA,Comoros
+COMESA,COMESA,Mauritius
+COMESA,COMESA,Eswatini
+COMESA,COMESA,Somalia
+
+GAFTA,GAFTA,Egypt
+GAFTA,GAFTA,Bahrain
+GAFTA,GAFTA,Iraq
+GAFTA,GAFTA,Jordan
+GAFTA,GAFTA,Kuwait
+GAFTA,GAFTA,Lebanon
+GAFTA,GAFTA,Libya
+GAFTA,GAFTA,Morocco
+GAFTA,GAFTA,Oman
+GAFTA,GAFTA,Qatar
+GAFTA,GAFTA,Saudi Arabia
+GAFTA,GAFTA,Sudan
+GAFTA,GAFTA,Syria
+GAFTA,GAFTA,Tunisia
+GAFTA,GAFTA,UAE
+GAFTA,GAFTA,Yemen
+GAFTA,GAFTA,Palestine
