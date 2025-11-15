@@ -17,23 +17,24 @@ The analysis uses data from international sources and tools including
 
 ## Team Members
 
-  ---------------------------------------------------------------------------------
-  Name             Student ID                       Email
-  ---------------- -------------------------------- -------------------------------
-  Ahmed Abdelaty   21093569                         ahmedgohar11@gmail.com
-  Tawfik Gohar                                      
 
-  Amr Fawzy        21100957                         amrfawzyabdelhamied@gmail.com
-  Abdelhamed                                        
-  Abdelaziz                                         
+  -  **Ahmed Abdelaty Tawfik Gohar**  
+     - Student ID: 21093569  
+     - Email: ahmedgohar11@gmail.com  
+  
 
-  Mahmoud          21045900                         mahmoudrefaataa@gmail.com
-  Abdelnaby Refaat                                  
+- **Amr Fawzy Abdelhamed Abdelaziz**  
+  - Student ID: 21100957  
+  - Email: amrfawzyabdelhamied@gmail.com  
 
-  Mahmoud Magdy    21089136                         mahmoudelsaaed4@gmail.com
-  Elsaeed                                           
-  Abdelrahman                                       
-  ---------------------------------------------------------------------------------
+- **Mahmoud Abdelnaby Refaat**  
+  - Student ID: 21045900  
+  - Email: mahmoudrefaataa@gmail.com  
+
+- **Mahmoud Magdy Elsaeed Abdelrahman**  
+  - Student ID: 21089136  
+  - Email: mahmoudelsaaed4@gmail.com  
+
 
 ------------------------------------------------------------------------
 
@@ -50,9 +51,9 @@ The analysis uses data from international sources and tools including
 3.  **Performance Benchmarking**\
     Assess key indicators:
 
-    -   Carbon and GHG emissions\
-    -   Energy conversion efficiency\
-    -   Energy demand\
+    -   Carbon and GHG emissions
+    -   Energy conversion efficiency
+    -   Energy demand
     -   Renewable energy share and growth
 
 4.  **Renewable Energy Deep Dive**\
@@ -71,13 +72,13 @@ The analysis uses data from international sources and tools including
 ## Key Deliverables
 
 -   **Stakeholder Analysis** -- A detailed mapping of Egypt's
-    energy-sector stakeholders.\
+    energy-sector stakeholders.
 -   **Project Plan** -- A step-by-step methodology for executing the
-    full analysis.\
+    full analysis.
 -   **Interactive Power BI Dashboard** -- Featuring:
-    -   Generation mix comparisons\
-    -   Emission & efficiency metrics\
-    -   Renewable growth assessment\
+    -   Generation mix comparisons
+    -   Emission & efficiency metrics
+    -   Renewable growth assessment
     -   Egypt's ranking vs. peer countries
 
 ------------------------------------------------------------------------
@@ -86,38 +87,38 @@ The analysis uses data from international sources and tools including
 
 ### **Primary Stakeholders (High Interest / High Influence)**
 
--   Ministry of Electricity and Renewable Energy\
--   New and Renewable Energy Authority (NREA)\
+-   Ministry of Electricity and Renewable Energy
+-   New and Renewable Energy Authority (NREA)
 -   Egyptian Electricity Holding Company (EEHC)
 
 ### **Secondary Stakeholders (Medium Interest / Influence)**
 
--   Public & Private Energy Companies\
--   Regional Center for Renewable Energy & Energy Efficiency (RCREEE)\
--   International data organizations (IEA, World Bank, OWID)\
+-   Public & Private Energy Companies
+-   Regional Center for Renewable Energy & Energy Efficiency (RCREEE)
+-   International data organizations (IEA, World Bank, OWID)
 -   Researchers and academic institutions
 
 ### **Tertiary Stakeholders (Low / Medium Influence)**
 
--   Environmental NGOs (Greenish, Banlastic Egypt)\
+-   Environmental NGOs (Greenish, Banlastic Egypt)
 -   General public and electricity consumers
 
 ------------------------------------------------------------------------
 
 ## Data Sources
 
--   International Energy Agency (IEA)\
--   The World Bank\
--   Our World in Data (OWID)\
+-   International Energy Agency (IEA)
+-   The World Bank
+-   Our World in Data (OWID)
 -   International Renewable Energy Agency (IRENA)
 
 ------------------------------------------------------------------------
 
 ## Tools & Technologies
 
--   **Microsoft Power BI** -- Visualization & dashboards\
--   **Python** -- Data cleaning, processing, analysis\
--   **Microsoft Excel** -- Pre-processing & data validation\
+-   **Microsoft Power BI** -- Visualization & dashboards
+-   **Python** -- Data cleaning, processing, analysis
+-   **Microsoft Excel** -- Pre-processing & data validation
 -   **Git & GitHub** -- Version control & collaboration
 
 ------------------------------------------------------------------------
