@@ -122,18 +122,6 @@ The analysis uses data from international sources and tools including
 -   **Git & GitHub** -- Version control & collaboration
 
 ------------------------------------------------------------------------
-
-## Repository Structure
-
-    ├── Data/                 # Raw and processed datasets
-    ├── Documentation/        # Stakeholder analysis & project plan PDFs
-    ├── Notebooks/            # Python notebooks used for analysis
-    ├── PowerBI_Dashboards/   # Power BI files and exports
-    ├── Reports/              # Final summary reports & presentations
-    └── README.md             # This file
-
-------------------------------------------------------------------------
-
 ## License
 
 This project is created as part of the **DEPI Power BI Specialist
